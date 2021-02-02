@@ -1,2 +1,1 @@
 FROM gcr.io/jenkinsxio/lighthouse-keeper:0.0.843
-MAINTAINER ruey
